@@ -1,0 +1,30 @@
+﻿
+body {
+    background-image: linear-gradient(#5371c7, #9198e5);
+}
+
+h1 {
+    font-size: 30px;
+    margin-bottom: 10px;
+}
+
+div p {
+    padding: 20px;
+}
+
+p {
+    font-size: 18px;
+    font-weight:400 ; 
+}
+
+
+.project-container {
+    padding: 30px 0; 
+    text-align: center;
+}
+
+.content-wrapper {
+    min-height: 100%; /* Make the content wrapper take up at least viewport height */
+    display: flex;
+    flex-direction: column;
+}
